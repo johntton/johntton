@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👨‍💻 About Me
 My name is John and I'm an undergraduate Computer Science major and Statistics minor at San Diego State University passionate about software development and data science.  
 
