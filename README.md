@@ -1,6 +1,14 @@
-## Hi there 👋
+## 👨‍💻 About Me
+I'm an undergraduate Computer Science major and Statistics minor at San Diego State University passionate about software development, data analytics, and AI.  
 
-My name is John and I'm an undegraduate Computer Science major and Statistics minor at San Diego State!
+## 🌱 Currently Learning
+- Image processing and computer vision using OpenCV  
+- Data visualization, analysis, and ML with Python
+  
+## 📫 Contact
+- Email: [johntton3@gmail.com](mailto:johntton3@gmail.com)
+- LinkedIn: [linkedin.com/in/johntton3](https://www.linkedin.com/in/johntton3/)
+
  
 <!--
 **johntton/johntton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
