@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is John and I'm an undegraduate Computer Science major and Statistics minor at San Diego State!
+ 
 <!--
 **johntton/johntton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
