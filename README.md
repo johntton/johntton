@@ -1,13 +1,18 @@
+## Hi there 👋
+
+I'm **John Ton**, an undergraduate **Computer Science major** and **Statistics minor** at **San Diego State University**.
+
 ## 👨‍💻 About Me
-My name is John and I'm an undergraduate Computer Science major and Statistics minor at San Diego State University passionate about software development and data science.  
+I’m passionate about **software development** and **data science**.
+I love blending coding and data to build meaningful solutions that uncover insights and solve real-world problems.  
 
 ## 🌱 Currently Learning
-- Image processing and computer vision using OpenCV  
-- Data visualization, analysis, and ML with Python
-  
+- Image processing and color detection with **OpenCV**  
+- Data visualization, analysis, and ML using **Python**  
+
 ## 📫 Contact
-- Email: [johntton3@gmail.com](mailto:johntton3@gmail.com)
-- LinkedIn: [linkedin.com/in/johntton3](https://www.linkedin.com/in/johntton3/)
+- 📧 Email: [johntton3@gmail.com](mailto:johntton3@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/johntton3](https://www.linkedin.com/in/johntton3/)
 
 <!--
 **johntton/johntton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
