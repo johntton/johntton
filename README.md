@@ -2,10 +2,6 @@
 
 I'm **John Ton**, an undergraduate **Computer Science major** and **Statistics minor** at **San Diego State University**.
 
-## 👨‍💻 About Me
-I’m passionate about **software development** and **data science**.
-I love blending coding and data to build meaningful solutions that uncover insights and solve real-world problems.  
-
 ## 🌱 Currently Learning
 - Image processing and color detection with **OpenCV**  
 - Data visualization, analysis, and ML using **Python**  
