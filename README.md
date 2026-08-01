@@ -3,8 +3,10 @@
 I'm **John Ton**, an undergraduate **Computer Science major** and **Statistics minor** at **San Diego State University**.
 
 ## 🌱 Currently Learning
-- Image processing and color detection with **OpenCV**  
-- Data visualization, analysis, and ML using **Python**  
+- Network programming with C++
+- Embedded systems and programming with C/C++
+- Application development using Java and Kotlin
+- Agentic development workflows
 
 ## 📫 Contact
 - 📧 Email: [johntton3@gmail.com](mailto:johntton3@gmail.com)  
