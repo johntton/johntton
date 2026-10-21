@@ -3,7 +3,7 @@
 I'm **John Ton**, an undergraduate **Computer Science major** and **Statistics minor** at **San Diego State University**.
 
 ## 🌱 Currently Learning
-- Network programming with C++
+- Network programming fundamentals
 - Embedded systems and programming with C/C++
 - Application development using Java and Kotlin
 - Agentic development workflows
